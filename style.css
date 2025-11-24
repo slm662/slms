@@ -249,7 +249,7 @@ scroll-behavior: smooth;
            background-color: #FFA500  ;
         }
 .formation-section {
-    background-image: url("see.jpeg"); 
+    background-image: url("iut2.jpg"); 
     background-size: cover;     
     background-position: center;
     
@@ -265,7 +265,7 @@ scroll-behavior: smooth;
     z-index: 1;
 }
 .head-section {
-    background-image: url("see1.jpeg"); 
+    background-image: url("iut.jpg"); 
     background-size: cover;     
     background-position: center; 
     background-repeat: no-repeat; 
@@ -280,7 +280,7 @@ scroll-behavior: smooth;
     z-index: 1;
 }
 .formation2-section {
-    background-image: url("iut.jpg"); 
+    background-image: url(""); 
     background-size: cover;     
     background-position: center;
     
@@ -305,7 +305,7 @@ scroll-behavior: smooth;
     z-index: 1;
 }
 .head2-section {
-    background-image: url("iut2.jpg"); 
+    background-image: url(""); 
     background-size: cover;     
     background-position: center; 
     background-repeat: no-repeat; 
